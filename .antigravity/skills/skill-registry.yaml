@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: cyprusian-restitution-roadmap-and-qsf-trust-execution
-  name: Cyprusian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/cyprusian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cy_001
+    name: Cyprus Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_002
+    name: Cyprus Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_003
+    name: Cyprus Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_004
+    name: Cyprus Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_005
+    name: Cyprus Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_006
+    name: Cyprus Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_007
+    name: Cyprus Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_008
+    name: Cyprus Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_009
+    name: Cyprus Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_010
+    name: Cyprus Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_011
+    name: Cyprus Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_012
+    name: Cyprus Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_013
+    name: Cyprus Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_014
+    name: Cyprus Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_015
+    name: Cyprus Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_016
+    name: Cyprus Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_017
+    name: Cyprus Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_018
+    name: Cyprus Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_019
+    name: Cyprus Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_020
+    name: Cyprus Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_021
+    name: Cyprus Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_022
+    name: Cyprus Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_023
+    name: Cyprus Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_024
+    name: Cyprus Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_025
+    name: Cyprus Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_026
+    name: Cyprus Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_027
+    name: Cyprus Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_028
+    name: Cyprus Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_029
+    name: Cyprus Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_030
+    name: Cyprus Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_031
+    name: Cyprus Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_032
+    name: Cyprus Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_033
+    name: Cyprus Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_034
+    name: Cyprus Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_035
+    name: Cyprus Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_036
+    name: Cyprus Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_037
+    name: Cyprus Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_038
+    name: Cyprus Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_039
+    name: Cyprus Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_040
+    name: Cyprus Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_041
+    name: Cyprus Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_042
+    name: Cyprus Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_043
+    name: Cyprus Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_044
+    name: Cyprus Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_045
+    name: Cyprus Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_046
+    name: Cyprus Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_047
+    name: Cyprus Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_048
+    name: Cyprus Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_049
+    name: Cyprus Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_050
+    name: Cyprus Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_051
+    name: Cyprus Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_052
+    name: Cyprus Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_053
+    name: Cyprus Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_054
+    name: Cyprus Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_055
+    name: Cyprus Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_056
+    name: Cyprus Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_057
+    name: Cyprus Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_058
+    name: Cyprus Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_059
+    name: Cyprus Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_060
+    name: Cyprus Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_061
+    name: Cyprus Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_062
+    name: Cyprus Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_063
+    name: Cyprus Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_064
+    name: Cyprus Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_065
+    name: Cyprus Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_066
+    name: Cyprus Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_067
+    name: Cyprus Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_068
+    name: Cyprus Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_069
+    name: Cyprus Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_070
+    name: Cyprus Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_071
+    name: Cyprus Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_072
+    name: Cyprus Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_073
+    name: Cyprus Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_074
+    name: Cyprus Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_075
+    name: Cyprus Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_076
+    name: Cyprus Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_077
+    name: Cyprus Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_078
+    name: Cyprus Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_079
+    name: Cyprus Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_080
+    name: Cyprus Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_081
+    name: Cyprus Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_082
+    name: Cyprus Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_083
+    name: Cyprus Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_084
+    name: Cyprus Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_085
+    name: Cyprus Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_086
+    name: Cyprus Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_087
+    name: Cyprus Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_088
+    name: Cyprus Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_089
+    name: Cyprus Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_090
+    name: Cyprus Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_091
+    name: Cyprus Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_092
+    name: Cyprus Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_093
+    name: Cyprus Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_094
+    name: Cyprus Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_095
+    name: Cyprus Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_096
+    name: Cyprus Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_097
+    name: Cyprus Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_098
+    name: Cyprus Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_099
+    name: Cyprus Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_100
+    name: Cyprus Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_101
+    name: Cyprus Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_102
+    name: Cyprus Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_103
+    name: Cyprus Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_104
+    name: Cyprus Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_105
+    name: Cyprus Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_106
+    name: Cyprus Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_107
+    name: Cyprus Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_108
+    name: Cyprus Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_109
+    name: Cyprus Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_110
+    name: Cyprus Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_111
+    name: Cyprus Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_112
+    name: Cyprus Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_113
+    name: Cyprus Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_114
+    name: Cyprus Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_115
+    name: Cyprus Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_116
+    name: Cyprus Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_117
+    name: Cyprus Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_118
+    name: Cyprus Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_119
+    name: Cyprus Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_120
+    name: Cyprus Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_121
+    name: Cyprus Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_122
+    name: Cyprus Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_123
+    name: Cyprus Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_124
+    name: Cyprus Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_125
+    name: Cyprus Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_126
+    name: Cyprus Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_127
+    name: Cyprus Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_128
+    name: Cyprus Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_129
+    name: Cyprus Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_130
+    name: Cyprus Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_131
+    name: Cyprus Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_132
+    name: Cyprus Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_133
+    name: Cyprus Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_134
+    name: Cyprus Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_135
+    name: Cyprus Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_136
+    name: Cyprus Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_137
+    name: Cyprus Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_138
+    name: Cyprus Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_139
+    name: Cyprus Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_140
+    name: Cyprus Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_141
+    name: Cyprus Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_142
+    name: Cyprus Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_143
+    name: Cyprus Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_144
+    name: Cyprus Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_145
+    name: Cyprus Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_146
+    name: Cyprus Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_147
+    name: Cyprus Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_148
+    name: Cyprus Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_149
+    name: Cyprus Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_150
+    name: Cyprus Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_151
+    name: Cyprus Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_152
+    name: Cyprus Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_153
+    name: Cyprus Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_154
+    name: Cyprus Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_155
+    name: Cyprus Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_156
+    name: Cyprus Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_157
+    name: Cyprus Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_158
+    name: Cyprus Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_159
+    name: Cyprus Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_160
+    name: Cyprus Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_161
+    name: Cyprus Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_162
+    name: Cyprus Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_163
+    name: Cyprus Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_164
+    name: Cyprus Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_165
+    name: Cyprus Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_166
+    name: Cyprus Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_167
+    name: Cyprus Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_168
+    name: Cyprus Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_169
+    name: Cyprus Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_170
+    name: Cyprus Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_171
+    name: Cyprus Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_172
+    name: Cyprus Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_173
+    name: Cyprus Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_174
+    name: Cyprus Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_175
+    name: Cyprus Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_176
+    name: Cyprus Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_177
+    name: Cyprus Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_178
+    name: Cyprus Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_179
+    name: Cyprus Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_180
+    name: Cyprus Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_181
+    name: Cyprus Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_182
+    name: Cyprus Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_183
+    name: Cyprus Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_184
+    name: Cyprus Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_185
+    name: Cyprus Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_186
+    name: Cyprus Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_187
+    name: Cyprus Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_188
+    name: Cyprus Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_189
+    name: Cyprus Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_190
+    name: Cyprus Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_191
+    name: Cyprus Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_192
+    name: Cyprus Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_193
+    name: Cyprus Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_194
+    name: Cyprus Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_195
+    name: Cyprus Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_196
+    name: Cyprus Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_197
+    name: Cyprus Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_198
+    name: Cyprus Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_199
+    name: Cyprus Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_200
+    name: Cyprus Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_201
+    name: Cyprus Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_202
+    name: Cyprus Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_203
+    name: Cyprus Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_204
+    name: Cyprus Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_205
+    name: Cyprus Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_206
+    name: Cyprus Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_207
+    name: Cyprus Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_208
+    name: Cyprus Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_209
+    name: Cyprus Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_210
+    name: Cyprus Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_211
+    name: Cyprus Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_212
+    name: Cyprus Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_213
+    name: Cyprus Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_214
+    name: Cyprus Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_215
+    name: Cyprus Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_216
+    name: Cyprus Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_217
+    name: Cyprus Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_218
+    name: Cyprus Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_219
+    name: Cyprus Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_220
+    name: Cyprus Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_221
+    name: Cyprus Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_222
+    name: Cyprus Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_223
+    name: Cyprus Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_224
+    name: Cyprus Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_225
+    name: Cyprus Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_226
+    name: Cyprus Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_227
+    name: Cyprus Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_228
+    name: Cyprus Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_229
+    name: Cyprus Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_230
+    name: Cyprus Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_231
+    name: Cyprus Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_232
+    name: Cyprus Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_233
+    name: Cyprus Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_234
+    name: Cyprus Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_235
+    name: Cyprus Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_236
+    name: Cyprus Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_237
+    name: Cyprus Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_238
+    name: Cyprus Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_239
+    name: Cyprus Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_240
+    name: Cyprus Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_241
+    name: Cyprus Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_242
+    name: Cyprus Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_243
+    name: Cyprus Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_244
+    name: Cyprus Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_245
+    name: Cyprus Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_246
+    name: Cyprus Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_247
+    name: Cyprus Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_248
+    name: Cyprus Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_249
+    name: Cyprus Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_250
+    name: Cyprus Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_251
+    name: Cyprus Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cy_252
+    name: Cyprus Skill 252
+    status: ACTIVE_SCAFFOLD
