@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/europe-and-central-asia/europe/cyprus/",
+  "final_url": "https://www.amnesty.org/en/location/europe-and-central-asia/europe/cyprus/",
+  "title": "Amnesty - Cyprus",
+  "fetched_at": "2026-11-23T15:24:22.219726Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 109370,
+  "sha256": "5daff6eda12f10e830d9373b8816eeb7a5734143e2f9de462a20ce6aed735d06",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
